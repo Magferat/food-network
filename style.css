@@ -1,6 +1,6 @@
 h1{
     font-family: 'Poppins', sans-serif;
-        font-size: 70px;
+        font-size: 60px;
 }
 p{
     font-size: 23px;
@@ -12,6 +12,7 @@ p{
 section-o{
     display: flex;
     padding-bottom: 100px;
+
 
 }
 .part{
@@ -47,6 +48,7 @@ section-o{
 }
 h3{
     font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 section-two{
     display: flex;
@@ -95,4 +97,13 @@ section-four{
     border: 40px solid white;
     border-radius: 30px;
     
+}
+footer{
+    padding-top: 5px;
+    text-align: center;
+    background-color: teal;
+    margin: none;
+}
+#last-name{
+    color: tomato;
 }
